@@ -1,0 +1,42 @@
+div{
+	color: green;
+}
+
+#satauri{
+	color: #586931;
+	font-size: 60px;
+	text-align: center;
+}
+
+#qvesatauri{
+	color: blue;
+	font-size: 40px;
+	text-align: center;
+	font-family: "impact";
+}
+#saxeli{
+ color: #F0D389;
+
+}
+
+ .startia{
+ 	background-color: #E9FFB4;
+ 	width: 60%;
+ 	padding: 50px;
+ }
+
+.articlename{
+	font-size: 30px;
+	color: black;
+	letter-spacing: 10px;
+}
+.info{
+	text-align: justify;
+	color: black;
+}
+
+.logo{
+text-align 100px;
+font-size: 100px;
+color: blue;
+}
